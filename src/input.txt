@@ -1,0 +1,15 @@
+H=0.1
+L=0.1
+nH=4
+nL=4
+K=25
+t0=100
+simulationTime=500
+simulationStepTime=50
+ambientTemperature=1200
+alfa=300
+specificHeat=700
+density=7800
+
+
+
